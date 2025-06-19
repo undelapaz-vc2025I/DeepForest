@@ -6,14 +6,14 @@ Realiza la configuración del ambiente de conda siguiendo las instrucciones en:
 Usa un modelo preentrenado para contar árboles siguiendo el tutorial:  
 🌲 https://deepforest.readthedocs.io/en/v1.5.0/getting_started/intro_tutorials/03_use_pretrained_model.html
 
-# 📚 Recursos
+# Recursos
 
 - Documentación general de DeepForest: https://deepforest.readthedocs.io/en/v1.5.0/
 - Repositorio oficial: https://github.com/weecology/DeepForest
 
 ---
 
-# 🧪 Tarea
+# Tarea
 
 ## Objetivo
 Aplicar un modelo preentrenado de DeepForest para detectar árboles en imágenes aéreas y realizar un análisis cuantitativo y visual a partir de los resultados obtenidos.
